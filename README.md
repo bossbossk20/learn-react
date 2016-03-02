@@ -1,14 +1,8 @@
-# Install
+# Install for install node module
 ```
 $ npm install
 ```
-
-# Build
+# run webpack
 ```
-$ webpack --watch
-```
-
-# Serve
-```
-$ http-server build
+$ webpack
 ```
